@@ -1,6 +1,6 @@
 import express from "express";
 import bodyParser from "body-parser";
-import Student from './routes/Student.js';  // Pastikan huruf kecil sesuai dengan nama file
+import Student from './routes/Student.js';
 
 const app = express();
 const port = 8000;
